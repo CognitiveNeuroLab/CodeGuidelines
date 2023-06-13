@@ -2,6 +2,9 @@
 
 This document describes basic principles for maintaining and collaborating on code for the CNL labs. These guidelines are intended to ease maintenance of code across multiple individuals the lab and ease the burden of collaborative maintenance of code. Some aspects of this document may not be applicable to a project, such as collaborative guidelines for individual projects (e.g., code made public alongside a publication).
 
+## Community Standards
+
+All interactions must follow the [community standards](CODE_OF_CONDUCT.md).
 
 ## Beginners Start Here
 
@@ -49,3 +52,4 @@ Once a repository is in use by more than one person these guidelines apply:
 * **Help! My PR broke everything!**: Simply make efore any other PRs go through be sure to make another PR.
 
 
+##
